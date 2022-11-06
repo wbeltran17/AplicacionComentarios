@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SqlLite</string>
+    <string name="create_comment">Crear un nuevo comentario</string>
+    <string name="name">Nombre</string>
+    <string name="comment">Comentario</string>
+    <string name="create_btn">Crear</string>
+    <string name="select_comment">Seleccione un comentario</string>
+    <string name="view">Ver</string>
+    <string name="selectedComment">Comentario Seleccionado</string>
+    <string name="delete">Eliminar</string>
+</resources>
